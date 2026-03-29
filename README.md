@@ -1,11 +1,8 @@
 # ¡Hola! Soy Anthony Ruiz 👋
 ## Web Developer | Caracas, Venezuela 🇻🇪
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anth1818/portfolio/main/src/assets/foto-linkedin.jpg" width="200" style="border-radius: 50%;" alt="Anthony Ruiz" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-ruiz-7820b7161/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://https://anthonyruizportfolio.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://anthonyruizportfolio.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anth1818)
 </div>
 
