@@ -3,7 +3,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-ruiz-7820b7161/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://anthonyruizportfolio.vercel.app)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anth1818)
 </div>
 
 ---
@@ -42,17 +41,24 @@
 
 ---
 
-### 🧠 Habilidades Blandas / Soft Skills
+### 🧠 Habilidades Blandas
 
-- **Trabajo en equipo / Teamwork:** Valoro la colaboración y la comunicación efectiva para lograr mejores resultados.
-- **Comunicación / Communication:** Enfocado en la claridad y concisión para compartir ideas eficazmente.
-- **Resolución de problemas / Troubleshooting:** Disfruto el reto de identificar y resolver problemas complejos.
-- **Uso estratégico de IA / Strategic Use of AI:** Aplico IA para mejorar la productividad manteniendo la calidad y fiabilidad.
+- **Trabajo en equipo:** Valoro la colaboración y la comunicación efectiva para lograr mejores resultados.
+- **Comunicación:** Enfocado en la claridad y concisión para compartir ideas eficazmente.
+- **Resolución de problemas:** Disfruto el reto de identificar y resolver problemas complejos.
+- **Uso estratégico de IA:** Aplico IA para mejorar la productividad manteniendo la calidad y fiabilidad.
+
+### 🧠 Soft Skills
+
+- **Teamwork:** I value collaboration and effective communication to achieve better results.
+- **Communication:** Focused on clarity and conciseness to share ideas effectively.
+- **Problem Solving:** I enjoy the challenge of identifying and resolving complex problems.
+- **Strategic Use of AI:** I leverage AI to boost productivity while maintaining high quality and reliability.
 
 ---
 
 ### 📫 Contacto / Contact
 - **LinkedIn:** [anthony-ruiz-7820b7161](https://www.linkedin.com/in/anthony-ruiz-7820b7161/)
-- **GitHub:** [Anth1818](https://github.com/Anth1818)
+- **Email:** tonyjrc2291@gmail.com
 - **Ubicación:** Caracas, Venezuela 🇻🇪
   
